@@ -1,0 +1,16 @@
+venv/
+venv_old
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+resumes/
+dataset/
+career_datasets/
+notebooks/
+AI-Resume-Analysis/
+*.db
+*.sqlite3
